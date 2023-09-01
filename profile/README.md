@@ -25,7 +25,7 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
 <div align="center">
   <kbd>
       <a href="https://psits-web-api.vercel.app/" target="_blank">
-          <img width="200" height="200" src="_img_api.png">
+          <img width="200" height="200" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/_img_api.png">
           <h3 align="center">PSITS Web API</h3>
       </a>
   </kbd>
@@ -39,7 +39,7 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
     &nbsp;&nbsp;
   <kbd>
       <a href="https://psits-web-officemanagement.vercel.app/login" target="_blank">
-          <img width="200" height="200" src="_img_office.png">
+          <img width="200" height="200" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/_img_office.png">
           <h3 align="center">PSITS Office Management</h3>
        </a>
   </kbd>
