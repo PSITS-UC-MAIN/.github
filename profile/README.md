@@ -16,7 +16,9 @@ This organization combines all aspiring student developers to collaborate and ex
 ### Is this project open for collaboration?
 Yes! The project is open for collaboration from `Students of UC Main, other campus, or an aspiring developers who is UC Alumni!` to share their ideas and experience team building environment with the project developers. This project is different from it's predecessor. The application is built in a MERN Stack since it is one popular technology stack used to build web applications and fast to deploy.
 
-[![](https://visitcount.itsvg.in/api?id=PSITS-UC-MAIN&label=Page%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=PSITS-UC-MAIN&label=Page%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in"/>
+</div>
 
 <div align="center">
     <h1>Deployments</h1>
@@ -43,5 +45,60 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
           <h3 align="center">PSITS Office Management</h3>
        </a>
   </kbd>
+</div>
+
+<div align="center">
+    <h1>People behind this project</h1>
+</div>
+
+<div align="center">
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/jaymar921" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/jaymar921.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href=https://github.com/orgs/PSITS-UC-MAIN/people/Keeeyaan" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/keeyan.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/gochuicod" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/gochuicod.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://psits-web-api.vercel.app/" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/mikapikachi921.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/Javabutdif" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/Javabutdif.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/criticalzero123" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/criticalzero123.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/natnat1432" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/natnat123.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/Death84256" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/death84256.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
 </div>
 
