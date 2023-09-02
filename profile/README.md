@@ -100,5 +100,23 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
       </a>
   </kbd>
   &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/TheOriginalReben" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/TheOriginalReben.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/takiii20" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/takiii20.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/ha-rold1999" target="_blank">
+          <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/ha-rold1999.png?raw=true">
+      </a>
+  </kbd>
+  &nbsp;
 </div>
 
