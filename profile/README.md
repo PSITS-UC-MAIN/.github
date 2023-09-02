@@ -53,61 +53,61 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
 
 <div align="center">
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/jaymar921" target="_blank">
+      <a href="https://github.com/jaymar921" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/jaymar921.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href=https://github.com/orgs/PSITS-UC-MAIN/people/Keeeyaan" target="_blank">
+      <a href="https://github.com/Keeeyaan" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/keeyan.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/gochuicod" target="_blank">
+      <a href="https://github.com/gochuicod" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/gochuicod.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://psits-web-api.vercel.app/" target="_blank">
+      <a href="https://github.com/mikapikachu921" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/mikapikachi921.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/Javabutdif" target="_blank">
+      <a href="https://github.com/Javabutdif" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/Javabutdif.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/criticalzero123" target="_blank">
+      <a href="https://github.com/criticalzero123" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/criticalzero123.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/natnat1432" target="_blank">
+      <a href="https://github.com/natnat1432" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/natnat123.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/Death84256" target="_blank">
+      <a href="https://github.com/Death84256" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/death84256.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/TheOriginalReben" target="_blank">
+      <a href="https://github.com/TheOriginalReben" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/TheOriginalReben.png?raw=true">
       </a>
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/takiii20" target="_blank">
+      <a href="https://github.com/takiii20" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/takiii20.png?raw=true">
       </a>
   </kbd>
