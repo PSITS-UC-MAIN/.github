@@ -113,7 +113,7 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
   </kbd>
   &nbsp;
   <kbd>
-      <a href="https://github.com/orgs/PSITS-UC-MAIN/people/ha-rold1999" target="_blank">
+      <a href="https://github.com/ha-rold1999" target="_blank">
           <img width="100" height="112" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/collaborators/ha-rold1999.png?raw=true">
       </a>
   </kbd>
