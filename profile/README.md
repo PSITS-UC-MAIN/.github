@@ -47,6 +47,10 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
   </kbd>
 </div>
 
+## Github Workflows
+[![PSITS-API | CI](https://github.com/PSITS-UC-MAIN/PSITS-WEB/actions/workflows/BackendAPICI.yml/badge.svg)](https://github.com/PSITS-UC-MAIN/PSITS-WEB/actions/workflows/BackendAPICI.yml)
+[![OfficeManagement | CI](https://github.com/PSITS-UC-MAIN/PSITS-WEB/actions/workflows/OfficeManagementCI.yml/badge.svg)](https://github.com/PSITS-UC-MAIN/PSITS-WEB/actions/workflows/OfficeManagementCI.yml)
+
 <div align="center">
     <h1>People behind this project</h1>
 </div>
