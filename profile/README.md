@@ -55,11 +55,11 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
 </div>
 
 <div align="center">
-    <a href="https://github.com/PSITS-UC-MAIN/psits_2024/actions/workflows/client-side-pipeline.yml" target="_blank">
-        <img src="https://github.com/PSITS-UC-MAIN/psits_2024/actions/workflows/client-side-pipeline.yml/badge.svg">
+    <a href="https://github.com/PSITS-UC-MAIN/PSITS-WEB-REACT/actions/workflows/client-side-pipeline.yml" target="_blank">
+        <img src="https://github.com/PSITS-UC-MAIN/PSITS-WEB-REACT/actions/workflows/client-side-pipeline.yml/badge.svg">
     </a>
-    <a href="https://github.com/PSITS-UC-MAIN/psits_2024/actions/workflows/server-side-pipeline.yml" target="_blank">
-        <img src="https://github.com/PSITS-UC-MAIN/psits_2024/actions/workflows/server-side-pipeline.yml/badge.svg">
+    <a href="https://github.com/PSITS-UC-MAIN/PSITS-WEB-REACT/actions/workflows/server-side-pipeline.yml" target="_blank">
+        <img src="https://github.com/PSITS-UC-MAIN/PSITS-WEB-REACT/actions/workflows/server-side-pipeline.yml/badge.svg">
     </a>
 </div>
 
@@ -68,8 +68,8 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
 </div>
 
 <div align="center">
-    <a href="https://github.com/PSITS-UC-MAIN/psits_2024/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=PSITS-UC-MAIN/psits_2024" />
+    <a href="https://github.com/PSITS-UC-MAIN/PSITS-WEB-REACT/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=PSITS-UC-MAIN/PSITS-WEB-REACT" />
     </a>
 </div>
 
