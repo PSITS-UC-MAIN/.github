@@ -16,9 +16,11 @@ This organization combines all aspiring student developers to collaborate and ex
 ### Is this project open for collaboration?
 Yes! The project is open for collaboration from `Students of UC Main, other campus, or an aspiring developers who is UC Alumni!` to share their ideas and experience team building environment with the project developers. This project is different from it's predecessor. The application is built in a MERN Stack since it is one popular technology stack used to build web applications and fast to deploy.
 
+<!--
 <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=PSITS-UC-MAIN&label=Page%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in"/>
 </div>
+-->
 
 <div align="center">
     <h1>Deployments</h1>
@@ -33,7 +35,7 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
   </kbd>
     &nbsp;&nbsp;
   <kbd>
-       <a href="https://psits-web-site.vercel.app/" target="_blank">
+       <a href="https://psits-web.vercel.app/" target="_blank">
             <img width="200" height="200" src="https://github.com/jaymar921/PSITSWebApp/blob/master/PSITSweb/static/images/PSITS_LOGO.png">
             <h3 align="center">PSITS Website</h3>
        </a>
