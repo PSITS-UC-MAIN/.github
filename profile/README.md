@@ -28,7 +28,7 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
 
 <div align="center">
   <kbd>
-      <a href="https://psits-web-api.vercel.app/" target="_blank">
+      <a href="https://psits-web.vercel.app/" target="_blank">
           <img width="200" height="200" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/_img_api.png">
           <h3 align="center">PSITS Web API</h3>
       </a>
@@ -42,13 +42,14 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
   </kbd>
     &nbsp;&nbsp;
   <kbd>
-      <a href="https://psits-web-officemanagement.vercel.app/login" target="_blank">
+      <a href="https://psits-web.vercel.app/" target="_blank">
           <img width="200" height="200" src="https://github.com/PSITS-UC-MAIN/.github/blob/main/profile/_img_office.png">
           <h3 align="center">PSITS Office Management</h3>
        </a>
   </kbd>
 </div>
 
+<!--
 <div align="center">
     <h1>Github Workflows</h1>
 </div>
@@ -64,10 +65,22 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
         <img src="https://github.com/PSITS-UC-MAIN/PSITS-WEB/actions/workflows/OfficeManagementCI.yml/badge.svg">
     </a>
 </div>
+-->
 
 
 <div align="center">
-    <h1>People behind this project</h1>
+    <h1>Active Members</h1>
+</div>
+
+<div align="center">
+    <a href="https://github.com/PSITS-UC-MAIN/psits_2024/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=PSITS-UC-MAIN/psits_2024" />
+    </a>
+</div>
+
+
+<div align="center">
+    <h1>Pioneering Developers</h1>
 </div>
 
 <div align="center">
@@ -138,4 +151,3 @@ Yes! The project is open for collaboration from `Students of UC Main, other camp
   </kbd>
   &nbsp;
 </div>
-
